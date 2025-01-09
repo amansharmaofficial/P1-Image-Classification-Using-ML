@@ -93,7 +93,7 @@ pip install -r requirements.txt
 - Development of a more comprehensive ethical framework
 
 ## Contributors
-- Aman Kumar (amansharma05664@gmail.com)
+- Aman Kumar
 - Project Guide: Abdul Aziz Md, Master Trainer, Edunet Foundation
 
 
