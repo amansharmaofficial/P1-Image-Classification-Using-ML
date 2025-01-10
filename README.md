@@ -92,12 +92,6 @@ pip install -r requirements.txt
 - Integration with emerging AI technologies
 - Development of a more comprehensive ethical framework
 
-## Contributors
-- Aman Kumar
-- Project Guide: Abdul Aziz Md, Master Trainer, Edunet Foundation
-
-
-
 
 ## Project Link
 GitHub: [P1-Image-Classification-Using-ML](https://github.com/amansharmaofficial/P1-Image-Classification-Using-ML)
